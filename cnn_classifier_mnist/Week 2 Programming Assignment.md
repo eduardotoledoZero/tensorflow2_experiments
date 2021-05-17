@@ -1,7 +1,6 @@
 
-# Programming Assignment
 
-## CNN classifier for the MNIST dataset
+# CNN classifier for the MNIST dataset
 
 ### Instructions
 
