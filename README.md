@@ -8,3 +8,5 @@ This repo contains all my work related to TensorFlow2 All the code base and asse
 
  Code Labs:
   + [Convolutional Neural Network Classifier  for the MNIST Dataset](https://github.com/eduardotoledoZero/tensorflow2_experiments).
+  
+  To build, compile and fit a convolutional neural network (CNN) model to the MNIST dataset of images of handwritten digits.
