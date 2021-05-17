@@ -297,7 +297,7 @@ acc_plot.set(xlabel="Epochs", ylabel="Accuracy")
 
 
 
-![png](output_23_1.png)
+![jpg](output_23_1.jpg)
 
 
 
