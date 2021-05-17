@@ -5,17 +5,8 @@
 
 ### Instructions
 
-In this notebook, you will write code to build, compile and fit a convolutional neural network (CNN) model to the MNIST dataset of images of handwritten digits.
+To build, compile and fit a convolutional neural network (CNN) model to the MNIST dataset of images of handwritten digits.
 
-Some code cells are provided you in the notebook. You should avoid editing provided code, and make sure to execute the cells in order to avoid unexpected errors. Some cells begin with the line: 
-
-`#### GRADED CELL ####`
-
-Don't move or edit this first line - this is what the automatic grader looks for to recognise graded cells. These cells require you to write your own code to complete them, and are automatically graded when you submit the notebook. Don't edit the function name or signature provided in these cells, otherwise the automatic grader might not function properly. Inside these graded cells, you can use any functions or classes that are imported below, but make sure you don't use any variables that are outside the scope of the function.
-
-### How to submit
-
-Complete all the tasks you are asked for in the worksheet. When you have finished and are happy with your code, press the **Submit Assignment** button at the top of this notebook.
 
 ### Let's get started!
 
@@ -393,4 +384,3 @@ plt.show()
 ![png](output_29_0.png)
 
 
-Congratulations for completing this programming assignment! In the next week of the course we will take a look at including validation and regularisation in our model training, and introduce Keras callbacks.
