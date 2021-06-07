@@ -41,9 +41,9 @@ from tensorflow.keras.layers import Dense, Dropout,BatchNormalization
 ```
 
 <tr>
-<td><img src="data/iris_setosa.jpg" alt="Drawing" style="height: 270px;"/></td>
-<td><img src="data/iris_versicolor.jpg" alt="Drawing" style="height: 270px;"/></td>
-<td><img src="data/iris_virginica.jpg" alt="Drawing" style="height: 270px;"/></td>
+<td><img src="iris_setosa.jpg" alt="Drawing" style="height: 270px;"/></td>
+<td><img src="iris_versicolor.jpg" alt="Drawing" style="height: 270px;"/></td>
+<td><img src="iris_virginica.jpg" alt="Drawing" style="height: 270px;"/></td>
 </tr>
 
 #### The Iris dataset
